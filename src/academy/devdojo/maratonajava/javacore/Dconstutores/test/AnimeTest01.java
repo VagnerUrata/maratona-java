@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.javacore.Dconstutores.test;
 
-import academy.devdojo.maratonajava.javacore.Dconstutores.domino.Anime;
+import academy.devdojo.maratonajava.javacore.Dconstutores.domain.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {
